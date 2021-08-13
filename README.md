@@ -21,7 +21,7 @@
   </a>
 </p>
 
-[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=mann-x&show_icons=true)](https://github.com/manxtodd/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mann-x&layout=compact)](https://github.com/manxtodd/github-readme-stats)
+[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=manxtodd&show_icons=true)](https://github.com/manxtodd/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manxtodd&layout=compact)](https://github.com/manxtodd/github-readme-stats)
 
 [![free dasboard admin](https://github-readme-stats.vercel.app/api/pin/?username=manxtodd&repo=json-txt)](https://github.com/manxtodd/json-txt)
