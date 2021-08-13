@@ -4,9 +4,7 @@
 
 ## Hallo, I Am Manxtodd! 🙋
 ### About Me :
-- Saya adalah manusia biasa
-- Hidup di Indonesia 
-- Saya seorang pelajar muda.
+- Saya adalah manusia
 
 <p align="center">
   <img alig src="./code.gif" />
