@@ -1,10 +1,12 @@
 <p align="center">
-  <img alig src="./memeg.jpg" />
+  <img align src="./memeg.jpg" />
 </p>
+<div align="center">
 
-## Hallo, I Am Manxtodd! 🙋
-### About Me :
-- Saya adalah manusia
+### Hallo, I Am Manxtodd! 🙋
+## About Me :
+Saya adalah manusia
+</div>
 
 <p align="center">
   <img alig src="./code.gif" />
