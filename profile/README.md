@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="232px" length="232px" align src="https://avatars.githubusercontent.com/improvementtroom" />
+  <img width="232px" length="232px" align src="../memeg.jpg" />
 </p>
 <div align="center">
 
